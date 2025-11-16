@@ -13,7 +13,9 @@ body {
 
 button, .button {
   background: white;
-  border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  padding: 14px 40px;
+  border-radius: 4px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
   text-align: center;
+  margin-top: 10px;
 }
