@@ -1,5 +1,5 @@
 body {
-  background-color: #f4f4f9;
+  background-color: #ff5d3d;
   font-family: Arial, sans-serif;
 }
 
@@ -12,5 +12,7 @@ body {
 }
 
 button, .button {
+   background-color: #ff5d3d;
   border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
