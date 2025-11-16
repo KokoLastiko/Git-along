@@ -17,9 +17,9 @@ button, .button {
   border-radius: 4px;
   box-shadow: 0 4px 15px rgba(0,0,0,0.1);
   text-align: center;
-  margin-top: 10px;
-  width: 100%;
-  justify-content: center; 
+  margin: 0 auto; 
+  width: auto;    
+  display: inline-block;
 }
 
-.button hover {background-color: #04AA6D;color: white;}
+.button:hover {background-color: #04AA6D;color: white;}
