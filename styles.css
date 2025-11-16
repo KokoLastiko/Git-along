@@ -19,5 +19,7 @@ button, .button {
   text-align: center;
   margin-top: 10px;
   width: 100%;
+  justify-content: center; 
 }
+
 .button hover {background-color: #04AA6D;color: white;}
